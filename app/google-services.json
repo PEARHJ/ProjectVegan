@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075337919638",
+    "project_id": "projectvegan-6c2ee",
+    "storage_bucket": "projectvegan-6c2ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075337919638:android:0537ea8350c6a4f07456b7",
+        "android_client_info": {
+          "package_name": "kr.ac.duksung.projectvegan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075337919638-7an19c5u9q25uriu1tu6dt7cpgbbps66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.ac.duksung.projectvegan",
+            "certificate_hash": "7d13cc2b0a7c6fc17405ef9bf2d1b97e9c86b0a1"
+          }
+        },
+        {
+          "client_id": "1075337919638-csqg1l7os81unerdjugs5k7fij99rasf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFm0c2jsfHC1s0f5v8n3S_djMYpMMMe5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075337919638-csqg1l7os81unerdjugs5k7fij99rasf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

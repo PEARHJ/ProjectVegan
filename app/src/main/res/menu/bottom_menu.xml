@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/HomeFeed"
+        android:icon="@drawable/home"
+        android:title="홈피드"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/Map"
+        android:icon="@drawable/mappin"
+        android:title="지도"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/Ocr"
+        android:icon="@drawable/camera"
+        android:title="카메라"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/Bookmark"
+        android:icon="@drawable/bookmark"
+        android:title="북마크"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/Mypage"
+        android:icon="@drawable/mypage"
+        android:title="마이페이지"
+        android:enabled="true" />
+
+
+
+</menu>
